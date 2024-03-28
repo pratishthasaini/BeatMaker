@@ -26,5 +26,5 @@ To run this project locally, clone this repository to your local machine and ope
 Created by Pratishtha.
 
 ## Project Section
-[Link to Project](#) 
+[Link to Project](https://pratishthasaini.github.io/BeatMaker/) 
 
